@@ -1,0 +1,13 @@
+{
+    "name": "Text",
+    "alias": "text",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Text\\Providers\\TextServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
