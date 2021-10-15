@@ -18,4 +18,5 @@ Route::prefix('v1')
     ->name('v1.')
     ->group(function () {
         require base_path('routes/api/v1/ping-pong.php');
+        require base_path('routes/api/v1/song.php');
     });
